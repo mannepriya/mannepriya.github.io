@@ -1,1 +1,1 @@
-# mannepriya.github.io
+Course Project for Machine Learning
